@@ -1,1 +1,2 @@
 Test file 3.
+Test file 3 has now been updated in develop branch.
